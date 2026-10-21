@@ -2,7 +2,7 @@
 
 Bemor yo'nalish, shifokor, kun va bo'sh vaqtni tanlab qabulga yoziladi; o'z qabul sahifasidan uni ko'radi yoki bekor qiladi. Qabulxona admin panelda kunlik jadvalni yuritadi (keldi → qabul tugadi / kelmadi), shifokorlarning ish kunlari va soatlarini, xizmat narxlarini o'zi o'zgartiradi. Yangi qabul va bekor qilish haqida Telegram xabari keladi.
 
-Next.js 16 · TypeScript (strict) · PostgreSQL · Tailwind CSS v4
+Next.js 16 · TypeScript (strict) · PostgreSQL (Neon) · Tailwind CSS v4
 
 **Demo:** https://murodulloh-klinika.vercel.app · admin panel: `/admin` (demo: `admin` / `admin123`)
 
